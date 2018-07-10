@@ -1,4 +1,4 @@
-#Three D Dice
+# Three D Dice
 
 Sample code to make a dodecahedron roll
 with Three.js, Cannon.js and a touch of OrbitControls. 
@@ -26,6 +26,7 @@ on how to improve my code!
 
 This was made based on various examples
 especially from :
-https://github.com/Alaxe/dice
-https://github.com/jieyou/dice
+* https://github.com/Alaxe/dice
+* https://github.com/jieyou/dice
+
 (Some could say this is basically a fork)
